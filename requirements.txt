@@ -1,0 +1,5 @@
+myqlm
+jupyterlab
+numpy
+matplotlib
+scipy
