@@ -6,3 +6,7 @@ You can open then notebooks in Google Colab (recommended, so that you can edit a
 Lab 1 - Introduction
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thomastuloup/quantum_labs_polytech_saclay_2026/blob/main/labs/lab1_introduction.ipynb)
+
+Lab 2 - Trotterization
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thomastuloup/quantum_labs_polytech_saclay_2026/blob/main/labs/lab2_trotterization.ipynb)
